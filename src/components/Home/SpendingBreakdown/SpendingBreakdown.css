@@ -1,0 +1,24 @@
+.SpendingBreakdownCon {
+    width: 100%;
+    height: 50%;
+    /* border: 1px solid yellow; */
+}
+
+.SpendingBreakdownFunctions {
+    height: 85%;
+    /* border: 1px solid red; */
+}
+
+.SpendingItems {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.SpendingType {
+    margin-left: 10px;
+} 
+.SpendingPrice {
+    margin-right: 10px;
+}

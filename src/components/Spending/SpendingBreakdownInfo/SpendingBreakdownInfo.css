@@ -1,0 +1,55 @@
+.SpendingBreakdownInfoCon {
+    width: 100%;
+    height: 80%;
+    border: 1px solid red;
+}
+
+.SpendingBreakdownInfo {
+    width: 100%;
+    height: 92%;
+    border: 1px solid white;
+}
+
+.SpendingBreakdownInfoItem {
+    width: 100%;
+    height: 50px;
+    border: 1px solid salmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.ItemNameCon {
+    display: flex;
+    margin-left: 10px;
+}
+
+.ItemIconCon {
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid black; */
+}
+
+.ItemIconCon div {
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ItemName {
+    width: 100px;
+    height: 50px;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ItemPrice {
+    margin-right: 10px;
+}

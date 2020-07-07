@@ -1,0 +1,11 @@
+.SpendingInfoCon {
+    width: 100%;
+    height: 20%;
+    border: 1px solid white;
+}
+
+.SpendingInfoSumCon {
+    width: 100%;
+    height: 70%;
+    border: 1px solid red;
+}

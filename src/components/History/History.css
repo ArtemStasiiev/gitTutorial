@@ -1,0 +1,25 @@
+.HistoryCon {
+    background-color: rgb(75, 75, 75);
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.HistoryConLeft {
+    width: 33%;
+    border: 1px solid white;
+    height: 100%;
+}
+
+.HistoryConCenter {
+    width: 33%;
+    border: 1px solid white;
+    height: 100%;
+}
+
+.HistoryConRight {
+    width: 33%;
+    border: 1px solid white;
+    height: 100%;
+}

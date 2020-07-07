@@ -1,0 +1,56 @@
+.NavbarCon {
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.Navbar {
+    height: 56px;
+    width: 96%;
+    background-color: rgb(75, 75, 75);
+    /* background-color: red; */
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding: 5px;
+}
+
+.Logo {
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.NavItems {
+    list-style: none;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+
+.NavItems li {
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    font-size: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.NavItems li:hover {
+    color: orange;
+}
+
+.AuthorizationCon {
+    width: 200px;
+    height: 20px;
+    border: 1px solid white;
+}
+

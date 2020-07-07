@@ -1,0 +1,21 @@
+.HomeCon {
+    background-color: rgb(75, 75, 75);
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.HomeConLeft {
+    width: 49%;
+    /* border: 1px solid black; */
+    height: 100%;
+    border-radius: 40px;
+
+}
+
+.HomeConRight {
+    width: 49%;
+    /* border: 1px solid white; */
+    height: 100%;
+}

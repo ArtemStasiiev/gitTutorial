@@ -1,0 +1,36 @@
+.TransactionsHistoryCon {
+    height: 100%;
+    border: 1px solid white;
+}
+
+.TransactionsHistoryDaysCon {
+    height: 93%;
+    border: 1px solid white;
+}
+
+.TransactionsHistoryItemsCon {
+    height: 30%;
+    border: 1px solid red;
+}
+
+.TransactionsHistoryItem {
+    height: 50px;
+    border: 1px solid salmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.TransactionsHistoryItemLeftCon {
+    display: flex;
+    justify-content: space-between;
+}
+
+.TransactionsHistoryItemLeftCon div {
+    margin-left: 10px;
+}
+
+.TransactionsHistoryPrice {
+    margin-right: 10px;
+}

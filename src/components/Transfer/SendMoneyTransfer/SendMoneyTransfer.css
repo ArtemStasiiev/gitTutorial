@@ -1,0 +1,10 @@
+.SendMoneyTransferCon {
+    height: 50%;
+    border: 1px solid red;
+}
+
+.SendMoneyTransferCon div {
+    height: 100%;
+    width: 100%;
+    border: 1px solid white;
+}
